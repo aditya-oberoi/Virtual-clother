@@ -15,9 +15,9 @@ import warnings
 warnings.filterwarnings("ignore", message="Default grid_sample and affine_grid behavior")
 
 # ─── Google Drive IDs ─────────────────────────────────────────────────────────
-SEG_CKPT_ID   = "1Hb_y7M4pQlrKh6m4-2Mo_m_KU1IcT6DB"
-GMM_CKPT_ID   = "1gtagvr1I8Dq4ejnpQ51fZ9G9sCloKgyh"
-ALIAS_CKPT_ID = "1vWoDdaiWF0Zuv8Md9bn7q-xLUUIjXReY"
+SEG_CKPT_ID   = "1V96cYLLPeyHb76vrJFW4QWOKH9p5vJsN"
+GMM_CKPT_ID   = "1ebct3BfW_oJDHU4DpFyxNOf611NUAwoU"
+ALIAS_CKPT_ID = "1QtrMcqRR5Otnvtfmj6pZa0LndEbQs6E8"
 
 CHECKPOINT_DIR = "./checkpoints"
 RESULTS_DIR    = "./results"
