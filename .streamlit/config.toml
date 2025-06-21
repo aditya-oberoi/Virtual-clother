@@ -1,0 +1,6 @@
+[server]
+maxUploadSize = 800  # Max image size (MB)
+headless = true  # Disable GUI for stability
+
+[runner]
+magicEnabled = false  # Prevent unwanted magic commands
