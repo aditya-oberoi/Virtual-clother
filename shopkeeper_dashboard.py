@@ -8,15 +8,16 @@ from io import BytesIO
 
 # ✅ Firebase Configuration
 firebase_config = {
-    "apiKey": "AIzaSyAm6HtleJzgdBAMM7k0VGaFwfQbe_GNbWY",
-    "authDomain": "clothes-wala.firebaseapp.com",
-    "databaseURL": "https://clothes-wala-default-rtdb.firebaseio.com",
-    "projectId": "clothes-wala",
-    "storageBucket": "clothes-wala.appspot.com",
-    "messagingSenderId": "48604679015",
-    "appId": "1:48604679015:web:f0065e957c1b50eb563dc2",
-    "measurementId": "G-HMDVX52K6Q"
+    "apiKey": "AIzaSyDyLwiNlTtsPh9_prIIxEzSYl_67bels4c",
+    "authDomain": "cloth-overlayer.firebaseapp.com",
+    "databaseURL": "https://cloth-overlayer-default-rtdb.firebaseio.com",
+    "projectId": "cloth-overlayer",
+    "storageBucket": "cloth-overlayer.firebasestorage.app",
+    "messagingSenderId": "379462316883",
+    "appId": "1:379462316883:web:ed5e69350a23cff58ba7a6",
+    "measurementId": "G-DQCMFK4LLN"
 }
+
 
 # Determine the base directory of this script
 base_dir = os.path.dirname(os.path.abspath(__file__))
